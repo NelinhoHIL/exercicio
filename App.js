@@ -1,0 +1,12 @@
+import React, {component} from "react"
+import { View, Text } from "react-native"
+
+export default class App extends Component {
+  render() {
+    return (
+    <View>
+       <Text>Olá Mundo</Text>
+    </View>
+    )
+  }
+}
